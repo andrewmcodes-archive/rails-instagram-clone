@@ -1,7 +1,18 @@
-<% @posts.each do |x| %>
-  <div class="white">
-    <%= image_tag x.image_url(:medium)%>
-    <br>
-  <%= x.description %>
-  </div>
-<% end %>
+<div class="row">
+  <% @post.each do |x| %>
+   <div class="col-md-4 white">
+    <div class="card">
+      <%= image_tag x.image(:medium), class: "card-img-top"%>
+
+      <div class="card-body">
+        <p class="card-text">
+          <%= x.description %>
+        </p>
+
+      </div>
+
+    </div>
+
+   </div>
+  <% end %>
+</div>

@@ -15,7 +15,7 @@ class PostsController < ApplicationController
     @post = Post.new(permit_post)
     if @post.save
       flash[:success] = "Success!"
-      redirect_to @post
+      redirect_to post_path(@post)
     else
       flash[:error] = @post.errors.full_messages
       redirect_to new_post_path
