@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="010a9ca4-7d9d-450e-b7bd-3dd0d7355f62" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/posts_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/posts_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/post.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/post.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/posts/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/posts/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/posts/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/posts/new.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/posts/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/posts/show.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrate/20180212085926_add_attachment_image_to_posts.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -28,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/instagram_clone@Development__instagram_clone.rcov" NAME="Development: instagram-clone Coverage Results" MODIFIED="1518431065863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="instagram-clone" />
+    <SUITE FILE_PATH="coverage/instagram_clone@Development__instagram_clone.rcov" NAME="Development: instagram-clone Coverage Results" MODIFIED="1518431177341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="instagram-clone" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -80,16 +71,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/post.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="posts_controller.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="posts_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -123,8 +114,8 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/posts/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/posts/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/models/post.rb" />
         <option value="$PROJECT_DIR$/app/views/posts/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/models/post.rb" />
       </list>
     </option>
   </component>
@@ -208,6 +199,13 @@
               <item name="instagram-clone" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="instagram-clone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="instagram-clone" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="devise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="instagram-clone" type="b2602c69:ProjectViewProjectNode" />
@@ -389,16 +387,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518422663106</updated>
-      <workItem from="1518422668786" duration="8412000" />
+      <workItem from="1518422668786" duration="9139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8412000" />
+    <option name="totallyTimeSpent" value="9139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="985" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -406,7 +403,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Database" weight="0.32960597" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16839677" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4152249" />
       <window_info anchor="bottom" id="Version Control" weight="0.3298731" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -597,17 +594,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/post.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/post.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
