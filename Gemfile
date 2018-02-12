@@ -38,7 +38,7 @@ gem 'rubocop'
 gem 'devise-bootstrapped', github: 'king601/devise-bootstrapped', branch: 'bootstrap4'
 gem 'yard', '~> 0.9.12'
 gem "paperclip", "~> 5.2.1"
-gem 'aws-sdk', '~> 3.0', '>= 3.0.1'
+gem 'aws-sdk', '>= 2.0'
 gem 'rest-client', '~> 2.0', '>= 2.0.2'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
