@@ -46,8 +46,8 @@
       <file leaf-file-name="imagga.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/initializers/imagga.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -385,12 +385,12 @@
       <option name="presentableId" value="Default" />
       <updated>1518422663106</updated>
       <workItem from="1518422668786" duration="9211000" />
-      <workItem from="1518435676029" duration="3302000" />
+      <workItem from="1518435676029" duration="3348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12513000" />
+    <option name="totallyTimeSpent" value="12559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="985" extended-state="0" />
@@ -658,8 +658,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/imagga.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
